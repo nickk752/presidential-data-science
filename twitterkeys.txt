@@ -1,0 +1,22 @@
+{
+    "Donald Trump": {
+        "cons_key": "Qw4ifR9uSshPZVsCW3E47G6wD",
+        "cons_secret": "9WLyHudlonXDqdW6tTrQFvnof15JsO8giAjfx93eshjQId9JIp",
+        "access_token": "856991041517477888-fO1zim0aZPAYnynWjHyCqqfQJairx4k",
+        "access_token_secret": "HWmlL4lXtakLJ9Fo82B4YsPjH8Zac0tf6dHEugI1UFUPr"
+    },
+    "Bernie Sanders": {
+        "cons_key": "pSaSI59RXiLakKBS2tsTO9ONx",
+        "cons_secret": "bAEkGywzRiEzCmAjV4Bg2OxPMFBQQpPmqa3w9zRXLQVI08T3cg",
+        "access_token": "857058114100760578-bPDrxoeAat6fZFQZI03BNybTMteINCh",
+        "access_token_secret": "1cGspZwsxfJeQdyXmTpV7qAM10gmA5E77wLuNJS4W3STL"
+
+    },
+    "Hillary Clinton ": {
+        "cons_key": "9csg29aOADtp2OXPee0XyQIOr",
+        "cons_secret": "Z8Axdo7W9P7pqoa2ekO4XrswLeeh0RYHtIb0KtNAYyIRWSWOu6",
+        "access_token": "857057995552935936-I0dRRkEiEHEIDBiMIXzOO0oJ1nkZrrO",
+        "access_token_secret": "KJccBLeu3PPXFR2TVPEYz7dWiQo6sbnKffiYnnrvFHRt3"
+    }
+
+}
